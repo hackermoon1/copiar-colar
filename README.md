@@ -1,4 +1,4 @@
-# Copiar/Colar"
+# Copiar/Colar
 
 ## Qual o objetivo?
 
@@ -9,7 +9,7 @@ Seu objetivo é **tentar reativar** a função de copiar (Ctrl+C / Cmd+C) e cola
 1.  **Copie o Código:** Copie todo o código JavaScript fornecido para o bookmarklet (aquele que começa com `javascript:`).
 
 2.  ```js
-    javascript:fetch('https://raw.githubusercontent.com/hackermoon1/copiar-colar/refs/heads/main/essamerda.js').then(r=>r.text()).then(r=>eval(r))
+    javascript:fetch('https://raw.githubusercontent.com/hackermoon1/copiar-colar/refs/heads/main/essamerda.js').then(r=>r.text()).then(r=>eval(r));
     ```
     
 3.  **Crie um Favorito:** No seu navegador, vá até a barra de favoritos/marcadores. Clique com o botão direito e escolha "Adicionar página..." ou "Adicionar marcador...".
